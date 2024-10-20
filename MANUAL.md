@@ -9,7 +9,7 @@
 * Ctrl + click on the link that comes in cmd.
 * With GUI opened you will now see previous 15minutes vibration data in 3 axes by default. You can change this by selecting the appropriate time interval from dropdown.
 * If you select, say prev 1 mins, and there is no data in that interval the graphs will not refresh.
-* SD-card's data can be plotted by running the ```Plot_SDCard.py``` script in ```Design/GUI/```.
+* SD-card's data can be plotted by running the ```Plot_SDCard.py``` script in ```GUI/```.
 
 
 ## Few things to note
